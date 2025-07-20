@@ -1,0 +1,1 @@
+# Deep-Learning-model-for-detecting-gloucoma-and-dibetic-retinopathy
